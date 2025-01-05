@@ -51,4 +51,4 @@ A robust and scalable eCommerce web application built with Django, designed to p
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/AbhishekJain2622/E-commerce.git
+   git clone https://github.com/AbhishekJain2622/Watch-store-django.git
